@@ -11,4 +11,4 @@ Text file with shorts cuts added
 [ ] 4. Return types\
 [ ] 5. Objects\
 [ ] 6. Constractors\
-[ ] 7. Inharitance/Arv\
+[ ] 7. Inharitance/Arv
