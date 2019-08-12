@@ -1,8 +1,8 @@
 # BasicConceptsInCSharp
 
-Each Lesson is put into there specific class with the same name\
+Each Lesson is put into there specific class with the same name
 
-Text file with shorts cuts added\
+Text file with shorts cuts added
 
 [x] 0. Variables/Naming convention/ShortCuts\
 [ ] 1. Access Modifiers\
