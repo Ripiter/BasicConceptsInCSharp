@@ -4,7 +4,7 @@ namespace BasicConceptsInCSharp
 {
     class Lesson0
     {
-        void Method()
+        public void Method()
         {
             bool trueOrFalse;
 
