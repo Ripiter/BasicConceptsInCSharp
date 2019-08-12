@@ -1,0 +1,13 @@
+Lesson 0 (ShortCuts):
+
+cw tab tab  => Console.WriteLine();
+ctrl + k + d  => Align the code 
+alt + pil up/ned => Move the code(s) of line(s) up or down
+
+
+for tab+tab => Create a for loop 
+foreach tab+tab => Create a foreach loop 
+
+shift + up/down => Select lines of code
+ctrl + shift + left/right => Select block of values
+
